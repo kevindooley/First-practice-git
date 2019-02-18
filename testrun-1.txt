@@ -1,3 +1,5 @@
 Git testrun 1 
 
 Trying to see do I undertsand the different git commands
+
+Adding in section to see can I change the file and commit accordingly
